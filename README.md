@@ -1,6 +1,5 @@
 <hr>
 <h3 align="center">
-  <br>
   <img src="./avatar.png" width="200" height="200" />
   <div>소프트웨어가 미래를 바꿉니다.</div>
   <br>
