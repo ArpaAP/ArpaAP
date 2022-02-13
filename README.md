@@ -34,6 +34,11 @@
 - [**Flutter**](https://flutter.dev)
 - [React Native](https://reactnative.dev)
 
+### 데이터베이스
+- **[MySQL](https://www.mysql.com) & [MariaDB](https://mariadb.org)**
+- [**MongoDB**](https://www.mongodb.com)
+- [**Firebase**](https://firebase.google.com)
+
 ## 프로젝트 리스트
 
 ### Aztra - 디스코드 관리봇 (2020.08.31 ~ 진행 중)
