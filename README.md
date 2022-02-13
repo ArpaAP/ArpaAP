@@ -11,6 +11,9 @@
 - 교내 소프트웨어 개발팀 [호산고 데브랩(HosanDevLab)](https://github.com/HosanDevLab) 팀장 (2021~)
 - 디스코드 봇 개발팀 [InfiniteTeam](https://inft.kr) 대표 (2018~)
 
+## Contact Me
+- Email: [**arpa1705@gmail.com**](mailto:arpa1705@gmail.com) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
+
 ## 사용 가능한 기술
 굵은 글씨는 주로 사용하는 언어, 프레임워크, 라이브러리입니다.
 
