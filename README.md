@@ -8,7 +8,7 @@
 
 <span align="center">
   
-  **[소개](https://github.com/ArpaAP#소개) · [Contact Me](https://github.com/ArpaAP#Contact-Me) · [사용 가능한 기술](https://github.com/ArpaAP#사용-가능한-기술) · [프로젝트 리스트](https://github.com/ArpaAP#프로젝트-리스트) · [수상 기록](https://github.com/ArpaAP#수상-기록)**
+  **[소개](#소개) · [Contact Me](#Contact-Me) · [사용 가능한 기술](#사용-가능한-기술) · [프로젝트 리스트](#프로젝트-리스트) · [수상 기록](#수상-기록)**
   
 </span>
 
