@@ -20,7 +20,6 @@
 ## Contact Me
 - Email: [**arpa1705@gmail.com**](mailto:arpa1705@gmail.com) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
 - **제 프로젝트가 마음에 드시나요? 앞으로를 응원해주세요!** 후원하기:   
-  <a href="https://www.buymeacoffee.com/arpaap"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=arpaap&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>   
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8AJ8G2)
 
 ## 사용 가능한 기술
