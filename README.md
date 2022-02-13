@@ -91,13 +91,13 @@
 - **실시간 웹 인터프리터 사이트:** [`ArpaAP/molu-web`](https://github.com/ArpaAP/molu-web)
 - [**이곳**](https://molu.vercel.app)에서 사용해볼 수 있습니다.
 
+<hr>
+
 ## 수상 기록
 
 > **제1회 청소년 ICT 창업가캠프 동상** (2019.11.02)
 
 > **제8회 대한민국 SW 융합 해커톤 대회 우수상** (2021.10.31)
-
-<hr>
 <br>
 
 <div style="display: flex;">
