@@ -12,6 +12,10 @@
   
 </span>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArpaAP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+![GitHub followers](https://img.shields.io/github/followers/ArpaAP?style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/ArpaAP?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+
 ## 소개
 - 호산고등학교 제3기 로봇공학반 (2021~)
 - 교내 소프트웨어 개발팀 [호산고 데브랩(HosanDevLab)](https://github.com/HosanDevLab) 팀장 (2021~)
