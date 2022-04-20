@@ -105,6 +105,12 @@
 
 <hr>
 
+### 카피캣(CopyCat) - 연예인 의상 정보 사이트 (2022.4.6 ~ 진행 중)
+- **프론트엔드(Vite with React):** [`ArpaAP/copycat`](https://github.com/ArpaAP/copycat)
+- [**이곳**](https://copycats.vercel.app)에서 사용해볼 수 있습니다. (미완성)
+
+<hr>
+
 ## 수상 기록
 
 > **제1회 청소년 ICT 창업가캠프 동상** (2019.11.02)
