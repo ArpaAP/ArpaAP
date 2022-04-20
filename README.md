@@ -98,7 +98,7 @@
 
 <hr>
 
-### 몰랭 - 몰?루 프로그래밍 언어 (2022.2.8 ~ 진행 중)
+### 몰랭 - 몰?루 프로그래밍 언어 (2022.2.8 ~ 2022.2.24)
 - **언어 명세 및 구현체:** [`ArpaAP/mollang`](https://github.com/ArpaAP/mollang)
 - **실시간 웹 인터프리터 사이트:** [`ArpaAP/molu-web`](https://github.com/ArpaAP/molu-web)
 - [**이곳**](https://molu.vercel.app)에서 사용해볼 수 있습니다.
