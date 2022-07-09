@@ -23,8 +23,7 @@
 
 ## Contact Me
 - Email: [**arpa1705@gmail.com**](mailto:arpa1705@gmail.com) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
-- **제 프로젝트가 마음에 드시나요? 앞으로를 응원해주세요!** 후원하기:   
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8AJ8G2)
+- **제 프로젝트가 마음에 드시나요? 앞으로를 응원해주세요!** [**후원하기**](https://toss.me/ArpaAP)
 
 ## 사용 가능한 기술
 굵은 글씨는 주로 사용하는 언어, 프레임워크, 라이브러리입니다.
