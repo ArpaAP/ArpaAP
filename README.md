@@ -8,7 +8,7 @@
 
 <span align="center">
   
-  **[소개](#소개) · [Contact Me](#Contact-Me) · [사용 가능한 기술](#사용-가능한-기술) · [프로젝트 리스트](#프로젝트-리스트) · [수상 기록](#수상-기록)**
+  **[소개](#소개) · [Contact Me](#contact-me) · [사용 가능한 기술](#사용-가능한-기술) · [프로젝트 리스트](#프로젝트-리스트) · [수상 기록](#수상-기록)**
   
 </span>
 
@@ -20,6 +20,9 @@
 - 호산고등학교 제3기 로봇공학반 (2021~)
 - 교내 소프트웨어 개발팀 [호산고 데브랩(HosanDevLab)](https://github.com/HosanDevLab) 팀장 (2021~)
 - 디스코드 봇 개발팀 [InfiniteTeam](https://inft.kr) 대표 (2018~)
+
+## 팀 멤버를 모집하고 있습니다
+- [InfiniteTeam](https://inft.kr) 새 멤버를 모집합니다! 채용 공고는 https://employment.inft.kr 을 참조해주세요.
 
 ## Contact Me
 - Email: [**arpa1705@gmail.com**](mailto:arpa1705@gmail.com) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
