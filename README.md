@@ -108,7 +108,7 @@
 <hr>
 
 ### 호산고 안내 키오스크 (2022.7.5 ~ 진행 중)
-- **프론트엔드(Vite with React):** [`HosanDevLab/hosan-kiosk`](https://github.com/HosanDevLab/hosan-kiosk)
+- **프론트엔드(React with Vite):** [`HosanDevLab/hosan-kiosk`](https://github.com/HosanDevLab/hosan-kiosk)
 
 <hr>
 
