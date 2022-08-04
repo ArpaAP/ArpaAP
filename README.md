@@ -112,6 +112,11 @@
 
 <hr>
 
+### AronaBot - 블루아카이브 종합 정보봇 (2022.7.30 ~ 진행 중)
+- **디스코드 봇(discord.js):** [`ArpaAP/Aronabot`](https://github.com/ArpaAP/Aronabot)
+
+<hr>
+
 ## 수상 기록
 
 > **제1회 청소년 ICT 창업가캠프 동상** (2019.11.02)
