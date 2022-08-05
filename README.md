@@ -21,9 +21,6 @@
 - 교내 소프트웨어 개발팀 [호산고 데브랩(HosanDevLab)](https://github.com/HosanDevLab) 팀장 (2021~)
 - 디스코드 봇 개발팀 [InfiniteTeam](https://inft.kr) 대표 (2018~)
 
-## 팀 멤버를 모집하고 있습니다
-- [InfiniteTeam](https://inft.kr) 새 멤버를 모집합니다! 채용 공고는 https://employment.inft.kr 을 참조해주세요.
-
 ## Contact Me
 - Email: [**arpa1705@gmail.com**](mailto:arpa1705@gmail.com) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
 - **제 프로젝트가 마음에 드시나요? 앞으로를 응원해주세요!** [**후원하기**](https://toss.me/ArpaAP)
