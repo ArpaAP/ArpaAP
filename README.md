@@ -114,6 +114,11 @@
 
 <hr>
 
+### Social Trend - SBERT 기반 이슈 키워드 추출
+- **소스 코드(Python):** [`ArpaAP/social-trend`](https://github.com/ArpaAP/social-trend)
+
+<hr>
+
 ## 수상 기록
 
 > **제1회 청소년 ICT 창업가캠프 동상** (2019.11.02)
