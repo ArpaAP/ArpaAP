@@ -114,7 +114,7 @@
 
 <hr>
 
-### Social Trend - SBERT 기반 이슈 키워드 추출
+### Social Trend - SBERT 기반 사회 이슈 키워드 추출 (2022.10.25 ~ 2022.11.9)
 - **소스 코드(Python):** [`ArpaAP/social-trend`](https://github.com/ArpaAP/social-trend)
 
 <hr>
