@@ -41,6 +41,7 @@
 - [Vue.js](https://vuejs.org)
 
 ### 웹 백엔드
+- [**Next.js**](https://nextjs.org)
 - [**Express.js**](https://expressjs.com)
 - [Django](https://www.djangoproject.com)
 
