@@ -57,7 +57,8 @@
 
 ### Aztra - 디스코드 관리봇 (2020.08.31 ~ 진행 중)
 - https://aztra.xyz
-- **웹 대시보드 사이트(Next.js)**: [`InfiniteTeam/aztra-web-2`](https://github.com/InfiniteTeam/aztra-web-2)
+- ~~**웹 대시보드 사이트(Next.js)**: [`InfiniteTeam/aztra-web-2`](https://github.com/InfiniteTeam/aztra-web-2)~~
+- 라이센스 위반이 자주 적발되어 비오픈소스화 하였습니다.
 
 <hr>
 
@@ -67,18 +68,21 @@
 <hr>
 
 ### 호산고 알리미 - 더 나은 호산고 생활을 도와줄 통합 애플리케이션 (2021.9.17 ~ 진행 중)
+- 제8회 대한민국 SW융합 해커톤 우수상 수상작, 2022년 6월부터 일부 기능에 한하여 학교에 적용되어 서비스 중
 - **모바일 애플리케이션(Flutter)**: [`HosanDevLab/hosan_notice`](https://github.com/HosanDevLab/hosan_notice)
 - **백엔드 서버(Express.js)**: [`HosanDevLab/hosan_notice_backend`](https://github.com/HosanDevLab/hosan_notice_backend)
 
 <hr>
 
 ### 리플라(Repla) - 플라스틱 캐시백 서비스 (2021.10.20 ~ 2021.10.23)
+- 2021 제3회 SW융합 학생 해커톤 출품작
 - **모바일 애플리케이션(Flutter):** [`HosanDevLab/repla_app`](https://github.com/HosanDevLab/repla_app)
 - **아두이노 프로그램(Arduino):** [`HosanDevLab/repla_firmware`](https://github.com/HosanDevLab/repla_firmware)
 
 <hr>
 
 ### LineBot - 아두이노 자율 주행 자동차 (2021.11.10 ~ 2021.12.01)
+- 1학년 <로봇 소프트웨어 개발> 과목 프로젝트
 - **아두이노 프로그램(Arduino)**: [`ArpaAP/linetrace_robot_firmware`](https://github.com/ArpaAP/linetrace_robot_firmware)
 - **모바일 컨트롤러(Flutter)**: [`ArpaAP/linetrace_robot_app`](https://github.com/ArpaAP/linetrace_robot_app)
 
@@ -92,6 +96,7 @@
 <hr>
 
 ### SIR 샌드박스 - SIR모델을 적용한 전염병 확산 시뮬레이션 웹앱 (2022.1.10 ~ 2022.1.14)
+- 1학년 겨울방학 프로젝트
 - **프론트엔드(React):** [`ArpaAP/sir-sandbox`](https://github.com/ArpaAP/sir-sandbox)
 - [**이곳**](https://sir.inft.kr)에서 사용해볼 수 있습니다.
 
@@ -109,13 +114,33 @@
 
 <hr>
 
-### AronaBot - 블루아카이브 종합 정보봇 (2022.7.30 ~ 진행 중)
+### AronaBot - 블루아카이브 종합 정보봇 (2022.7.30 ~ 중단)
 - **디스코드 봇(discord.js):** [`ArpaAP/Aronabot`](https://github.com/ArpaAP/Aronabot)
 
 <hr>
 
+### CafeIN - 카페 탐색 애플리케이션 (UI 목업) (2022.4.22 ~ 2022.11.30)
+- 2학년 동아리 프로젝트로, UI만 구현되어 있습니다.
+- **소스 코드(Flutter):** [`ArpaAP/cafe_app`](https://github.com/ArpaAP/cafe_app)
+
+<hr>
+
+### Alpha Mirror - 하이브리드 웹 프레임워크 기반 스마트미러 (2022.9.22 ~ 2022.11.11)
+- 2학년 <로봇 하드웨어 개발> 과목 프로젝트
+- **소스 코드(Tauri + Vite + React & Python):** [`ArpaAP/alpha-mirror`](https://github.com/ArpaAP/alpha-mirror)
+
+<hr>
+
 ### Social Trend - SBERT 기반 사회 이슈 키워드 추출 (2022.10.25 ~ 2022.11.9)
+- 2학년 <응용 프로그래밍 개발> 과목 프로젝트
 - **소스 코드(Python):** [`ArpaAP/social-trend`](https://github.com/ArpaAP/social-trend)
+
+<hr>
+
+### Calculus Sandbox - 간단한 미적분 계산기 (2022.10.25 ~ 2022.11.9)
+- 2학년 <미적분> 과목 주제탐구 프로젝트
+- **소스 코드(Next.js):** [`ArpaAP/calculus-sandbox`](https://github.com/ArpaAP/calculus-sandbox)
+- **소스 코드(Flask):** [`ArpaAP/calculus-sandbox-backend`](https://github.com/ArpaAP/calculus-sandbox-backend)
 
 <hr>
 
