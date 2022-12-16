@@ -138,7 +138,7 @@
 
 <hr>
 
-### Calculus Sandbox - 간단한 미적분 계산기 (2022.10.25 ~ 2022.11.9)
+### Calculus Sandbox - 간단한 미적분 계산기 (2022.12.14 ~ 2022.12.16)
 - 2학년 <미적분> 과목 주제탐구 프로젝트
 - **소스 코드(Next.js):** [`ArpaAP/calculus-sandbox`](https://github.com/ArpaAP/calculus-sandbox)
 - **소스 코드(Flask):** [`ArpaAP/calculus-sandbox-backend`](https://github.com/ArpaAP/calculus-sandbox-backend)
