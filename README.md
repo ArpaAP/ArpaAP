@@ -146,7 +146,7 @@
 <hr>
 
 ### Autowindow - 아두이노 자동 창문 (2023.5.4 ~ 개발중)
-- 3학년 <로보프로젝트> 과목 주제탐구 프로젝트
+- 3학년 <로보프로젝트> 과목 수행평가 프로젝트
 - **[미완성] 원격 컨트롤러 소스 코드(Flutter):** [`ArpaAP/autowindow-controller`](https://github.com/ArpaAP/autowindow-controller)
 - **[미완성] 백엔드 소스 코드(Nest.js):** [`ArpaAP/autowindow-server`](https://github.com/ArpaAP/autowindow-server)
 
