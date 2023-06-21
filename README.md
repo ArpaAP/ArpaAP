@@ -43,6 +43,7 @@
 ### 웹 백엔드
 - [**Next.js**](https://nextjs.org)
 - [**Express.js**](https://expressjs.com)
+- [**Nest.js**](https://nestjs.com)
 - [Django](https://www.djangoproject.com)
 
 ### 모바일 애플리케이션
@@ -56,7 +57,7 @@
 
 ## 프로젝트 리스트
 
-### Aztra - 디스코드 관리봇 (2020.08.31 ~ 진행 중)
+### Aztra - 웹 대시보드 기반 디스코드 관리봇 (2020.08.31 ~ 진행 중)
 - https://aztra.xyz
 - ~~**웹 대시보드 사이트(Next.js)**: [`InfiniteTeam/aztra-web-2`](https://github.com/InfiniteTeam/aztra-web-2)~~
 - 라이센스 위반이 자주 적발되어 비오픈소스화 하였습니다.
@@ -110,13 +111,8 @@
 
 <hr>
 
-### 호산고 안내 키오스크 (2022.7.5 ~ 진행 중)
+### 호산고 안내 키오스크 (2022.7.5 ~ 2022.10.26)
 - **프론트엔드(React with Vite):** [`HosanDevLab/hosan-kiosk`](https://github.com/HosanDevLab/hosan-kiosk)
-
-<hr>
-
-### AronaBot - 블루아카이브 종합 정보봇 (2022.7.30 ~ 중단)
-- **디스코드 봇(discord.js):** [`ArpaAP/Aronabot`](https://github.com/ArpaAP/Aronabot)
 
 <hr>
 
@@ -145,10 +141,10 @@
 
 <hr>
 
-### Autowindow - 아두이노 자동 창문 (2023.5.4 ~ 개발중)
+### Autowindow - 아두이노 자동 창문 (2023.5.4 ~ 2023.6.16)
 - 3학년 <로보프로젝트> 과목 수행평가 프로젝트
-- **[미완성] 원격 컨트롤러 소스 코드(Flutter):** [`ArpaAP/autowindow-controller`](https://github.com/ArpaAP/autowindow-controller)
-- **[미완성] 백엔드 소스 코드(Nest.js):** [`ArpaAP/autowindow-server`](https://github.com/ArpaAP/autowindow-server)
+- **원격 컨트롤러 소스 코드(Flutter):** [`ArpaAP/autowindow-controller`](https://github.com/ArpaAP/autowindow-controller)
+- **백엔드 소스 코드(Nest.js):** [`ArpaAP/autowindow-server`](https://github.com/ArpaAP/autowindow-server)
 
 <hr>
 
@@ -162,6 +158,5 @@
 <br>
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpaAP&count_private=true&show_icons=true&theme=vue" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaAP&layout=compact&theme=vue&count_private=true" />
 </div>
