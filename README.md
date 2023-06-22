@@ -146,7 +146,7 @@
 - **원격 컨트롤러 소스 코드(Flutter):** [`ArpaAP/autowindow_controller`](https://github.com/ArpaAP/autowindow_controller)
 - **백엔드 소스 코드(Nest.js):** [`ArpaAP/autowindow_server`](https://github.com/ArpaAP/autowindow_server)
 - **라즈베리파이 소스 코드(Python):** [`ArpaAP/autowindow_raspberrypi`](https://github.com/ArpaAP/autowindow_raspberrypi)
-- **아두이노 코드:** [`ArpaAP/autowindow_firmware`](https://github.com/ArpaAP/autowindow_firmware)
+- **아두이노 코드:** [`ArpaAP/autowindow_firmware`](https://github.com/ArpaAP/autowindow_firmware)
 
 <hr>
 
