@@ -143,8 +143,10 @@
 
 ### Autowindow - 아두이노 자동 창문 (2023.5.4 ~ 2023.6.16)
 - 3학년 <로보프로젝트> 과목 수행평가 프로젝트
-- **원격 컨트롤러 소스 코드(Flutter):** [`ArpaAP/autowindow-controller`](https://github.com/ArpaAP/autowindow-controller)
-- **백엔드 소스 코드(Nest.js):** [`ArpaAP/autowindow-server`](https://github.com/ArpaAP/autowindow-server)
+- **원격 컨트롤러 소스 코드(Flutter):** [`ArpaAP/autowindow_controller`](https://github.com/ArpaAP/autowindow_controller)
+- **백엔드 소스 코드(Nest.js):** [`ArpaAP/autowindow_server`](https://github.com/ArpaAP/autowindow_server)
+- **라즈베리파이 소스 코드(Python):** [`ArpaAP/autowindow_raspberrypi`](https://github.com/ArpaAP/autowindow_raspberrypi)
+- **아두이노 코드:** [`ArpaAP/autowindow_firmware`](https://github.com/ArpaAP/autowindow_firmware)
 
 <hr>
 
