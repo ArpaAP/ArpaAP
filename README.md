@@ -151,7 +151,7 @@
 ### CSAT Simulator - 대학수학능력시험 안내방송 시뮬레이터 (2023.5.9 ~ 2023.5.13)
 - 2024 수능 모의 시뮬레이션을 위해 개인적으로 제작한 웹앱 프로젝트
 - **소스 코드(Next.js):** [`ArpaAP/csat-simulator`](https://github.com/ArpaAP/csat-simulator)
-- [**이곳**](https://cast.vercel.app)에서 사용해볼 수 있습니다.
+- [**이곳**](https://csat.vercel.app)에서 사용해볼 수 있습니다.
 
 <hr>
 
