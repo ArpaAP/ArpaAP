@@ -114,8 +114,7 @@
 
 <hr>
 
-### CafeIN - 카페 탐색 애플리케이션 (UI 목업) (2022.4.22 ~ 2022.11.30)
-- 2학년 동아리 프로젝트로, UI만 구현되어 있습니다.
+### CafeIN - 카페 탐색 애플리케이션 (2022.4.22 ~ 2022.11.30)
 - **소스 코드(Flutter):** [`ArpaAP/cafe_app`](https://github.com/ArpaAP/cafe_app)
 
 <hr>
