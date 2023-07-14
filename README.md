@@ -21,7 +21,7 @@
 - 디스코드 봇 개발팀 [Infinite Studio](https://inft.kr) 대표 (2018~)
 
 ## Contact Me
-- Email: [**arpa1705@gmail.com**](mailto:arpa1705@gmail.com) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
+- Email: [**me@arpaap.dev**](mailto:me@arpaap.dev) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
 
 ## 사용 가능한 기술
 굵은 글씨는 주로 사용하는 언어, 프레임워크, 라이브러리입니다.
