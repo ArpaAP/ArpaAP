@@ -31,6 +31,8 @@
 - **JavaScript & [TypeScript](https://www.typescriptlang.org)**
 - C, C++, C#
 - [Kotlin](https://kotlinlang.org)
+- [Swift](https://www.swift.org/)
+- [Rust](https://www.rust-lang.org/)
 - [Dart](https://dart.dev)
 
 ### 웹 프론트엔드
