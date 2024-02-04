@@ -22,8 +22,8 @@
 - 디스코드 봇 개발팀 [Infinite Studio](https://inft.kr) 대표 (2018~)
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaAP&layout=compact&theme=vue&count_private=true" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arpaap" href="https://solved.ac/arpaap" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaAP&layout=compact&theme=vue&count_private=true" />
 </div>
 
 ## Contact Me
