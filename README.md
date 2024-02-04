@@ -23,10 +23,8 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaAP&layout=compact&theme=vue&count_private=true" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arpaap" href="https://solved.ac/arpaap" />
 </div>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arpaap)](https://solved.ac/arpaap)
 
 ## Contact Me
 - Email: [**me@arpaap.dev**](mailto:me@arpaap.dev) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
