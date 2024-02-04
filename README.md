@@ -21,6 +21,13 @@
 - 교내 소프트웨어 개발팀 [호산고 데브랩(HosanDevLab)](https://github.com/HosanDevLab) 팀장 (2021~)
 - 디스코드 봇 개발팀 [Infinite Studio](https://inft.kr) 대표 (2018~)
 
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaAP&layout=compact&theme=vue&count_private=true" />
+</div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arpaap)](https://solved.ac/arpaap)
+
 ## Contact Me
 - Email: [**me@arpaap.dev**](mailto:me@arpaap.dev) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
 
@@ -171,8 +178,3 @@
 > **제8회 대한민국 SW 융합 해커톤 대회 우수상** (2021.10.31)
 
 > **제4회 청소년 ICT 창업가캠프 금상** (2022.10.29)
-<br>
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpaAP&layout=compact&theme=vue&count_private=true" />
-</div>
