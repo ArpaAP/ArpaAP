@@ -77,8 +77,8 @@
 
 <hr>
 
-### 호산고 알리미 - 더 나은 호산고 생활을 도와줄 통합 애플리케이션 (2021.9.17 ~ 진행 중)
-- 제8회 대한민국 SW융합 해커톤 우수상 수상작, 2022년 6월부터 일부 기능에 한하여 학교에 적용되어 서비스 중
+### 호산고 알리미 - 더 나은 호산고 생활을 도와줄 통합 애플리케이션 (2021.9.17 ~ 2024.2.7)
+- 제8회 대한민국 SW융합 해커톤 우수상 수상작, 2022년 6월부터 일부 기능에 한하여 학교에 적용되어 서비스 진행, 2024년 2월 종료
 - **모바일 애플리케이션(Flutter)**: [`HosanDevLab/hosan_notice`](https://github.com/HosanDevLab/hosan_notice)
 - **백엔드 서버(Express.js)**: [`HosanDevLab/hosan_notice_backend`](https://github.com/HosanDevLab/hosan_notice_backend)
 
