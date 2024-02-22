@@ -29,7 +29,7 @@
 </div>
 
 ## Contact Me
-- Email: [**me@arpaap.dev**](mailto:me@arpaap.dev) (개인) **|** [**21181@hosan.hs.kr**](mailto:21181@hosan.hs.kr) (학교)
+- Email: [**me@arpaap.dev**](mailto:me@arpaap.dev) (개인) **|** [**alpha@knu.ac.kr**](mailto:alpha@knu.ac.kr) (학교)
 
 ## 사용 가능한 기술
 굵은 글씨는 주로 사용하는 언어, 프레임워크, 라이브러리입니다.
