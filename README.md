@@ -115,7 +115,7 @@
 ### 몰랭 - 몰?루 프로그래밍 언어 (2022.2.8 ~ 2022.2.24)
 - **언어 명세 및 구현체:** [`ArpaAP/mollang`](https://github.com/ArpaAP/mollang)
 - **실시간 웹 인터프리터 사이트:** [`ArpaAP/molu-web`](https://github.com/ArpaAP/molu-web)
-- [**이곳**](https://molu.vercel.app)에서 사용해볼 수 있습니다.
+- [**이곳**](https://molu.arpaap.dev)에서 사용해볼 수 있습니다.
 
 <hr>
 
@@ -160,14 +160,14 @@
 ### CSAT Simulator - 대학수학능력시험 안내방송 시뮬레이터 (2023.5.9 ~ 2023.5.13)
 - 2024 수능 모의 시뮬레이션을 위해 개인적으로 제작한 웹앱 프로젝트
 - **소스 코드(Next.js):** [`ArpaAP/csat-simulator`](https://github.com/ArpaAP/csat-simulator)
-- [**이곳**](https://csat.vercel.app)에서 사용해볼 수 있습니다.
+- [**이곳**](https://csat.arpaap.dev)에서 사용해볼 수 있습니다.
 
 <hr>
 
 ### Physika - 뉴턴의 운동법칙에 기반한 역학 시뮬레이터 (2023.7.7 ~ 2023.7.12)
 - 물리학Ⅰ, 물리학Ⅱ 교과과정의 역학 및 에너지 단원에 기반한 물리 엔진
 - **소스 코드(Next.js):** [`ArpaAP/physika`](https://github.com/ArpaAP/physika)
-- [**이곳**](https://physika.vercel.app)에서 사용해볼 수 있습니다.
+- [**이곳**](https://physika.arpaap.dev)에서 사용해볼 수 있습니다.
 
 <hr>
 
