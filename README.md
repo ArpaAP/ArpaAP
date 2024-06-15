@@ -21,8 +21,6 @@
 - 교내 소프트웨어 개발팀 [호산고 데브랩(HosanDevLab)](https://github.com/HosanDevLab) 팀장 (2021~2024)
 - 디스코드 봇 개발팀 [Infinite Studio](https://inft.kr) 대표 (2018~)
 
-[**전체 이력서(CV) 보기**](https://cv.arpaap.dev)   
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arpaap)](https://solved.ac/arpaap)
 
@@ -32,6 +30,9 @@
 
 ## Contact Me
 - Email: [**me@arpaap.dev**](mailto:me@arpaap.dev) (개인) **|** [**alpha@knu.ac.kr**](mailto:alpha@knu.ac.kr) (학교)
+
+## 전체 이력서 보기
+[**전체 이력서(CV) 보기**](https://cv.arpaap.dev)   
 
 ## 사용 가능한 기술
 굵은 글씨는 주로 사용하는 언어, 프레임워크, 라이브러리입니다.
