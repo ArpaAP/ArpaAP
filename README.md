@@ -20,6 +20,7 @@
 - 호산고등학교 제3기 로봇공학반 (2021~2024)
 - 교내 소프트웨어 개발팀 [호산고 데브랩(HosanDevLab)](https://github.com/HosanDevLab) 팀장 (2021~2024)
 - 디스코드 봇 개발팀 [Infinite Studio](https://inft.kr) 대표 (2018~)
+- 경북대학교 정보보안연구회(KERT) 기술부장 (2025~)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arpaap)](https://solved.ac/arpaap)
