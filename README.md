@@ -11,7 +11,7 @@
   
 </span>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArpaAP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FArpaAP?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 ![GitHub followers](https://img.shields.io/github/followers/ArpaAP?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/ArpaAP?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
 
